@@ -1,5 +1,5 @@
 import random
-
+#complete game
 def roll_dice():
     return random.randint(1,6)
 
